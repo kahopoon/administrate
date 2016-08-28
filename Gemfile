@@ -10,6 +10,7 @@ gem "markdown-rails"
 gem "pg"
 gem "redcarpet"
 gem "unicorn"
+gem 'bootstrap', '~> 4.0.0.alpha3.1'
 
 group :development do
   gem "web-console", ">= 2.1.3"
